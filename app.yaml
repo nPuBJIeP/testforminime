@@ -1,0 +1,24 @@
+company:
+  name: Mini Me
+server:
+  host: 127.0.0.1
+  port: 4321
+  echo: false
+  path: /minime
+  debug: false
+  secret: MdMu3)VVy]JYx!VK
+  username: minime
+  password: minime489
+bot:
+  name: MiniMe
+  # token: 500476309:AAH41VWSMhdewDIbW7G79CB35EUBoHq1zN4 # buttersdk
+  token: 669830943:AAFYXxDfDU_m6ebNBRAfJgcBQkIuH5ctmzY
+  polling: true
+  webhook: https://nimblewing.uz/483610908:AAHleuPCRdKh2Dzimp2dQRS-pnHXG6sk6GU
+feedback:
+  channel_id: -1001398131015
+sync:
+  file: /home/minime/clients.csv
+  cache_file: /usr/share/nginx/html/MiniMe/.cache/clients.csv
+database:
+  name: minime.db
